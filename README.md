@@ -45,7 +45,7 @@
 
 <br />
 
-## Reference
+## References
 
 [1] srsRAN, https://www.srslte.com/ <br />
 [2] Open5GS, https://open5gs.org/ <br />
