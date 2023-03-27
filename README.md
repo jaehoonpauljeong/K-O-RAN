@@ -23,16 +23,14 @@
 |   └──setup-ran.sh
 |   |
 |   └──setup-code.py
-|   |
-|   └──setup-config.conf
-|   |
-|   └──configure_os.sh
 |   
 └──setup
 |  |
 |  └──Open5GS
 |  |
 |  └──srsRAN
+|  |
+|  └──srsRAN_config.conf
 ```
 
 ## Quick Start
