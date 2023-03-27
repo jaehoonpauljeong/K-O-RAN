@@ -1,0 +1,1 @@
+$SUDO python3 setup-code.py
